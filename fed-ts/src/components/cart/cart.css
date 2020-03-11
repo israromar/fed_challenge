@@ -1,0 +1,133 @@
+.checkout-wrap {
+    background-color: #f7f7f7;
+}
+.checkout-head {
+    background-color: #034bbd;
+    padding: 15px 0;
+}
+.checkout-head h2 {
+    font-size: 24px;
+    line-height: 1.2;
+    color: #fff;
+    margin: 0;
+}
+h3 {
+    font-size: 26px;
+    line-height: 1.2;
+    color: #373a44;
+}
+.table-section {
+    padding: 50px 0 50px;
+}
+.cart-table,
+.form-inner {
+    margin: 0 30px;
+}
+.cart-table table {
+    width: 100%;
+}
+.cart-table table th,
+.cart-table table td {
+    font-size: 14px;
+    line-height: 1.2;
+    color: #908b98;
+    font-weight: 400;
+    padding: 5px 0;
+}
+.cart-table table thead tr {
+    border-bottom: 1px solid #ccc;
+}
+.cart-table table tbody tr:last-child {
+    border-top: 1px solid #ccc;
+}
+.cart-table table td {
+    padding: 13px 0;
+}
+.your-cart {
+    display: flex;
+    align-items: center;
+}
+.cart-image {
+    width: 150px;
+    height: 150px;
+    overflow: hidden;
+    border-radius: 50%;
+    margin-right: 20px;
+    background-color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.cart-image img {
+    object-fit: contain;
+}
+.cart-info h4 {
+    font-size: 16px;
+    line-height: 1.3;
+    color: #524b4a;
+    margin: 0 0 5px 0;
+    text-transform: initial;
+}
+.cart-info span {
+    font-size: 12px;
+    line-height: 1.2;
+    color: #908b98;
+    text-transform: uppercase;
+}
+.cart-table table td {
+    color: #524b4a;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+.checkout-btn-row {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 30px;
+}
+.checkout-btn {
+    background-color: #034bbd;
+    padding: 15px 0;
+    border: none;
+    padding: 12px 25px;
+    font-size: 14px;
+    color: #fff;
+    text-transform: uppercase;
+}
+/* Checkout Crt CSS End */
+.form-inner h4 {
+    font-size: 22px;
+    color: #373a44;
+    line-height: 1.2;
+    margin-bottom: 25px;
+}
+.form-outer {
+    padding: 50px 0;
+}
+.title {
+    border-bottom: 1px solid #ccc;
+    padding: 5px 0;
+    margin-bottom: 20px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+.checkout-form .form-group {
+    display: flex;
+}
+.checkout-form .form-control {
+    background-color: #fff !important;
+    border: none;
+    opacity: 1;
+    border-radius: 0;
+    font-size: 16px;
+    color: #85898e;
+}
+.checkout-form  label {
+    min-width: 150px;
+    padding-right: 20px;
+    margin-bottom: 0;
+    color: #40454b;
+}
+
+
+
+
